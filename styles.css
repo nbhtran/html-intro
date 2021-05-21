@@ -1,0 +1,25 @@
+h1 {
+    color:rebeccapurple;
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+    font-family: "Comic Sans MS", "Comic Sans";
+}
+
+#secondHeading {
+    color: seagreen;
+}
+
+div {
+    font-size: 30 px;
+    font-family: "Comic Sans MS", "Comic Sans";
+    color: skyblue;
+
+}
+
+.subHeading {
+    font-size: 45px;
+    color: tomato;
+}
